@@ -27,7 +27,7 @@ I've embarked on an adventure from building command line tools and utilities to 
 
 #### 🛡️ Cybersecurity Aficionado
 
-Beyond coding, I also have a passion for Cybersecurity and ~~Ethical~~ Hacking (Pentestint). My commitment to securing digital landscapes is fueled by a relentless pursuit of knowledge and a passion for making the digital world safer.
+Beyond coding, I also have a passion for Cybersecurity and ~~Ethical~~😈️ Hacking (Pentestint). My commitment to securing digital landscapes is fueled by a relentless pursuit of knowledge and a passion for making the digital world safer.
 
 ### 🏆 Achievements
 
