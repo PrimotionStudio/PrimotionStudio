@@ -11,8 +11,8 @@ Hello! I'm Prime Okanlawon, a passionate and versatile software engineer from Ni
 ### 🛠️ Technical Expertise
 
 - **Primary Language:** PHP (Mastered)
-- **Current Focus:** NODEjs (Express)
-- **Expanding Horizon:** C, C++, Python, Bash, Shell
+- **Current Focus:** MERN (MongoDB, ExpessJS, ReactJS, NodeJS) Stack
+- **Expanding Horizon:** C, C++, TypeScript, JavaScript, Python, Bash, Shell
 
 ### 🎉 Professional Highlights
 
@@ -31,17 +31,17 @@ Beyond coding, I also have a passion for Cybersecurity and ~~Ethical~~😈️ Ha
 
 ### 🏆 Achievements
 
-- Constantly leveling up my skills in C, C++, Python, Bash, and Shell
+- Constantly leveling up my skills in C, C++, Python, JavaScript, TypeScript, Bash, and Shell
 
 ### 🚀 What Sets Me Apart
 
 - **Versatility:** Proficient in both traditional (PHP) and modern (NODEjs) web development and low/high-level architectural languages (C & Python).
 - **Ambition:** Aspiring to be a proficient Software Engineer.
 - **Interests:** Takes an interest in Machine Learning, Cybersecurity Knowledgebase, and Ethical Hacking Skillset, ensuring an innovative secure digital future.
-- **Continuous Learning:** Actively adding C, C++, Python, Bash, and Shell to my toolkit.
+- **Continuous Learning:** Actively adding C, C++, TypeScript, JavaScript, Python, Bash, and Shell to my toolkit.
 
 ### 📞 Contact Information
 
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/theprimotionstudio/) [𝕏](https://x.com/in/theprimotion/) [Mail](mailto:oyedelenewton@gmail.com).
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/theprimotionstudio/) [𝕏](https://x.com/in/theprimotion/) [Mail](mailto:prime@theprimotionstudio.tech).
 
 ---
