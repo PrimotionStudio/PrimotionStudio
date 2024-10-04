@@ -13,6 +13,7 @@ Hello! I'm Prime Okanlawon, a passionate and versatile software engineer from Ni
 - **Primary Language:** PHP (Mastered)
 - **Current Focus:** MERN (MongoDB, ExpessJS, ReactJS, NodeJS) Stack
 - **Expanding Horizon:** C, C++, TypeScript, JavaScript, Python, Bash, Shell
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=primotionstudio&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### 🎉 Professional Highlights
 
