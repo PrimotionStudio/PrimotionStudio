@@ -34,11 +34,12 @@ Beyond coding, I also have a passion for Cybersecurity and ~~Ethical~~😈️ Ha
 
 ### 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=primotionstudio&theme=juicyfresh&no-bg=true" />
 - Constantly leveling up my skills in C, C++, Python, JavaScript, TypeScript, Bash, and Shell
+<img src="https://github-profile-trophy.vercel.app/?username=primotionstudio&theme=juicyfresh&no-bg=true" />
 
 ### 🚀 What Sets Me Apart
 
+<img src="https://komarev.com/ghpvc/?username=primotionstudio&color=brightgreen" alt="watching_count" />
 - **Versatility:** Proficient in both traditional (PHP) and modern (NODEjs) web development and low/high-level architectural languages (C & Python).
 - **Ambition:** Aspiring to be a proficient Software Engineer.
 - **Interests:** Takes an interest in Machine Learning, Cybersecurity Knowledgebase, and Ethical Hacking Skillset, ensuring an innovative secure digital future.
