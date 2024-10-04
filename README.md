@@ -27,7 +27,6 @@ My love for coding led me to master PHP, the heartbeat of my programming prowess
 
 Although gaining my foot in web development, I haven't settled there. I'm still on my journey to explore new horizons and broaden the possibilities of programming for me.
 I've embarked on an adventure from building command line tools and utilities to GUI software using C and Python
-![Contribution](https://activity-graph.herokuapp.com/graph?username=primotionstudio&theme=react-dark&hide_border=true&area=true)
 
 #### 🛡️ Cybersecurity Aficionado
 
@@ -35,6 +34,7 @@ Beyond coding, I also have a passion for Cybersecurity and ~~Ethical~~😈️ Ha
 
 ### 🏆 Achievements
 
+<img src="https://github-profile-trophy.vercel.app/?username=primotionstudio&theme=juicyfresh&no-bg=true" />
 - Constantly leveling up my skills in C, C++, Python, JavaScript, TypeScript, Bash, and Shell
 
 ### 🚀 What Sets Me Apart
