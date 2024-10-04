@@ -39,13 +39,15 @@ Beyond coding, I also have a passion for Cybersecurity and ~~Ethical~~😈️ Ha
 
 ### 🚀 What Sets Me Apart
 
-<img src="https://komarev.com/ghpvc/?username=primotionstudio&color=brightgreen" alt="watching_count" />
 - **Versatility:** Proficient in both traditional (PHP) and modern (NODEjs) web development and low/high-level architectural languages (C & Python).
 - **Ambition:** Aspiring to be a proficient Software Engineer.
 - **Interests:** Takes an interest in Machine Learning, Cybersecurity Knowledgebase, and Ethical Hacking Skillset, ensuring an innovative secure digital future.
 - **Continuous Learning:** Actively adding C, C++, TypeScript, JavaScript, Python, Bash, and Shell to my toolkit.
 
-### Statistics
+### 📊 Statistics
+
+<img src="https://komarev.com/ghpvc/?username=primotionstudio&color=brightgreen" alt="watching_count" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
 
 ### 📞 Contact Information
 
