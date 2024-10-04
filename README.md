@@ -18,6 +18,7 @@ Hello! I'm Prime Okanlawon, a passionate and versatile software engineer from Ni
 
 #### 💻 Coding Enthusiast
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=primotionstudio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 My love for coding led me to master PHP, the heartbeat of my programming prowess. Recently diving into NODEjs (Express), I'm seamlessly transferring my skills, creating a dynamic blend of traditional and modern web development expertise.
 
 ### 🌐️ More Than A Web Developer
@@ -39,6 +40,8 @@ Beyond coding, I also have a passion for Cybersecurity and ~~Ethical~~😈️ Ha
 - **Ambition:** Aspiring to be a proficient Software Engineer.
 - **Interests:** Takes an interest in Machine Learning, Cybersecurity Knowledgebase, and Ethical Hacking Skillset, ensuring an innovative secure digital future.
 - **Continuous Learning:** Actively adding C, C++, TypeScript, JavaScript, Python, Bash, and Shell to my toolkit.
+
+### Statistics
 
 ### 📞 Contact Information
 
