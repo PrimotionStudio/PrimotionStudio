@@ -47,7 +47,7 @@ Beyond coding, I also have a passion for Cybersecurity and ~~Ethical~~😈️ Ha
 ### 📊 Statistics
 
 <img src="https://komarev.com/ghpvc/?username=primotionstudio&color=brightgreen" alt="watching_count" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+<img src="https://profile-counter.glitch.me/{primotionstudio}/count.svg" alt="PrimotionStudio :: Visitor's Count" />
 
 ### 📞 Contact Information
 
